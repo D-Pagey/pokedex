@@ -1,3 +1,4 @@
+// Package pokeapi is an interface for calling the pokemon api
 package pokeapi
 
 import (
